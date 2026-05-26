@@ -45,8 +45,8 @@ The objective of this project was to create an interactive and visually appealin
 ---
 
 ## 📂 Files Included
-- `Project_4_Data_Visualization.pbix`
-- `Dashboard_Screenshot.png`
+- `Project 4.pbix`
+- `Cleaned_Dataset.csv`
 - `README.md`
 
 ---
