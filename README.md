@@ -25,10 +25,8 @@ The objective of this project was to create an interactive and visually appealin
   - Monthly Revenue Trend
   - Payment Method Distribution
   - Order Status Distribution
-  - Revenue by Category
   - Revenue by Country
-- Added slicers for interactive filtering
-- Applied dashboard formatting and layout design
+  - Applied dashboard formatting and layout design
 - Generated business insights through visual storytelling
 
 ---
